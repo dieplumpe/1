@@ -3,7 +3,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
 
 body {
-  background-image: url("https://www.dropbox.com/s/j8g45xy9e46zkv4/bitmap2.png?dl=0&raw=1");
+  background: url("https://www.dropbox.com/s/j8g45xy9e46zkv4/bitmap2.png?dl=0&raw=1");
   width: 100%;
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
