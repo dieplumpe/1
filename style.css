@@ -2,8 +2,8 @@ html {
   scroll-behavior: smooth;
 }
 
-@import url(//fonts.googleapis.com/css2?family=Bangers&display=swap);
-@import url(//fonts.googleapis.com/css2?family=Montserrat&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Bangers&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Montserrat&display=swap);
 
 body {
   background: url("https://www.dropbox.com/s/j8g45xy9e46zkv4/bitmap2.png?dl=0&raw=1");
